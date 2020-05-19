@@ -1,4 +1,5 @@
 # Statistical Learning Theory: Coding Exercises
+The description and algorithm of each notebook is developped inside each jupyter notebook.
 
 |   | Exercise                 | 
 |---|--------------------------|
