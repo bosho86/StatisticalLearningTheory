@@ -6,4 +6,5 @@
 | 3 | Histogram Clustering     | 
 | 4 | Constant Shift Embedding |
 | 5 | Pairwise Clustering      |
+| 7 | Mean Field Approximation |
 
